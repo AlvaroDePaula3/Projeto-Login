@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto de login\login e senha C#\login e senha C#\bin\Debug\login e senha C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto de login\login e senha C#\login e senha C#\bin\Debug\login e senha C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto de login\login e senha C#\login e senha C#\bin\Debug\login e senha C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto de login\login e senha C#\login e senha C#\obj\Debug\login e senha C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto de login\login e senha C#\login e senha C#\obj\Debug\login e senha C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto de login\login e senha C#\login e senha C#\obj\Debug\login e senha C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto de login\login e senha C#\login e senha C#\obj\Debug\login e senha C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto de login\login e senha C#\login e senha C#\obj\Debug\login e senha C#.pdb
